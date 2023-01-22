@@ -39,3 +39,4 @@ Mathematics Coursework:
 Differential Calculus I
 Differential Calculus II
 Linear Algebra and Differential Equations
+
